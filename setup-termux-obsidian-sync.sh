@@ -116,3 +116,5 @@ echo "$HOOK_SCRIPT" >> ~/.bashrc
 source ~/.bashrc
 echo "Setup complete! Your $HOME is now synced to Obsidian with integrity checks and script porting."
 echo "Use Tasker for automation (see below)."
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=setup-termux-obsidian-sync.sh
